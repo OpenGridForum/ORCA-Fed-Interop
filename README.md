@@ -34,7 +34,7 @@ Goals/Deliverables:
                  governance, and associated management tasks.
       Type: Informal Document
       Milestones:
-            Draft           		-- 2020-10
-            Public Comment  	-- 2021-04
-            Publication
+            Draft:            10-2020
+            Public Comment:   04-2021
+            Publication:      05-2020
 
