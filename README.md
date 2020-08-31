@@ -36,5 +36,5 @@ Goals/Deliverables:
       Milestones:
             Draft:            10-2020
             Public Comment:   04-2021
-            Publication:      05-2020
+            Publication:      05-2021
 
