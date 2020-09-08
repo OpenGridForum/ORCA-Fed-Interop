@@ -29,7 +29,7 @@ Exit Strategy:
 
 Goals/Deliverables:
 
-      Title: The ORCA CFRA Use Cases
+      Title: The ORCA CFRA Use Cases (this document) - https://app.gitbook.com/@open-grid-forum/s/orca-fi-use-cases/
       Abstract:  Use cases for CFRA-based federations, including stakeholders, deployment,
                  governance, and associated management tasks.
       Type: Informal Document
