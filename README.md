@@ -5,7 +5,7 @@ Group Leadership:
       Khalil Yazdi		KhalilYazdi@Outlook.com		Chair
       Craig A. Lee          lee@keyvoms.org			Chair, Access Requests
       Martial Michel	martialmichel@datamachines.io	Secretary
-      Zion Brewer           Microsoft                       Industry Liaison
+      Zion Brewer           Microsoft                       Co-Chair, Industry Liaison
 
 Group Summary:
 
