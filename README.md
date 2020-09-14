@@ -38,7 +38,7 @@ Goals/Deliverables:
       Title: The ORCA-FI CFRA Use Cases (this document) - https://app.gitbook.com/@open-grid-forum/s/orca-fi-use-cases/
       Abstract:  Use cases for CFRA-based federations, including stakeholders, deployment,
                  governance, and associated management tasks.
-      Type: Informational Document
+      Type: Community Practice Document
       Milestones:
             Draft:            10-2020
             Public Comment:   04-2021
