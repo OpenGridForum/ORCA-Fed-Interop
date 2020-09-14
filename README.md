@@ -13,16 +13,13 @@ Group Summary:
       the ORCA Federation and Interoperability Working Group (ORCA-FI WG). ORCA’s mission is to support managed but
       open access to data, applications and infrastructure resources needed to conduct research across a globally
       distributed community. The purpose of the ORCA-FI WG is to facilitate the further adoption by the research
-      community of federation tooling based on the NIST Cloud Federation Reference Architecture (CFRA) and
-      federation-specific standards being developed by IEEE P2302 WG.
+      community of federation tooling based on the NIST Cloud Federation Reference Architecture (CFRA), SP 500-332,
+      and federation-specific standards being developed by IEEE P2302 WG to complement existing federation-relevant
+      standards.
 
 Charter Focus / Purpose and Scope:
-
-      NIST published the CFRA (SP 500-332) in February 2020. The IEEE P2302 WG is currently working on
-      federation-specific standards in support of the CFRA. This will complement existing standards that
-      are directly relevant to managing federations.
       
-      The specific scope of the ORCA-FI WG will be to: 1) collect, curate and make discoverable federation
+      The specific scope of the ORCA-FI WG is to: 1) collect, curate and make discoverable federation
       and interoperability toolsets that are consistent with the NIST CFRA and supportive of IEEE standards;
       2) inform the further refinement of the NIST CFRA and federation/interoperability standards being developed
       through the IEEE P2303 WG; and 3) develop and socialize use cases across research groups in academia,
