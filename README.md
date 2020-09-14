@@ -16,7 +16,7 @@ Group Summary:
 
 Charter Focus / Purpose and Scope:
 
-      NIST published the CFRA (SP 800-332) in February 2020.  The IEEE P2302 WG is currently working
+      NIST published the CFRA (SP 500-332) in February 2020.  The IEEE P2302 WG is currently working
       on federation-specific standards in support of the CFRA.  This will complement existing standards
       that are directly relevant to managing federations.  The specific scope of the ORCA-FI WG
       will be to develop and socialize use cases across academia, industry and government.  A key part
