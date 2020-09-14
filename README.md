@@ -25,9 +25,9 @@ Charter Focus / Purpose and Scope:
                with the NIST CFRA and supportive of IEEE standards; and
             3) inform the further refinement of the NIST CFRA and federation/interoperability standards being
                developed through the IEEE P2303 WG.     
-      On the latter, a key part of these use cases will be to identify the deployment and governance models
-      that are most appropriate.  This collection of use cases will also be used to identify the implementation
-      approach(es) that will be practical and appealing to the widest segment of stakeholders.
+      A key part of these use cases will be to identify the deployment and governance models that are most
+      appropriate.  This collection of use cases will also be used to identify the implementation approach(es)
+      that will be practical and appealing to the widest segment of stakeholders.
 
 Exit Strategy:
 
