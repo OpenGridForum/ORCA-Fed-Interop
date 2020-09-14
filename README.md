@@ -9,20 +9,28 @@ Group Leadership:
 
 Group Summary:
 
-      The purpose of this WG is to facilitate the further adoption of federation tooling based
-      on the NIST Cloud Federation Reference Architecture (CFRA) and federation-specific standards
-      being developed by IEEE P2302 WG.  The OGF ORCA-FI WG is being organized under the
-      auspices of The Open Cloud Research Alliance (ORCA); a key partner in these outreach efforts.
+      Working collaboratively with the Open Research Cloud Alliance (ORCA), the Open Grid Forum (OGF) has established
+      the ORCA Federation and Interoperability Working Group (ORCA-FI WG). ORCA’s mission is to support managed but
+      open access to data, applications and infrastructure resources needed to conduct research across a globally
+      distributed community. The purpose of the ORCA-FI WG is to facilitate the further adoption by the research
+      community of federation tooling based on the NIST Cloud Federation Reference Architecture (CFRA) and
+      federation-specific standards being developed by IEEE P2302 WG.
 
 Charter Focus / Purpose and Scope:
 
-      NIST published the CFRA (SP 500-332) in February 2020.  The IEEE P2302 WG is currently working
-      on federation-specific standards in support of the CFRA.  This will complement existing standards
-      that are directly relevant to managing federations.  The specific scope of the ORCA-FI WG
-      will be to develop and socialize use cases across academia, industry and government.  A key part
-      of these use cases will be to identify the deployment and governance models that are most appropriate.
-      This collection of use cases will also be used to identify the implementation approach(es) that will be
-      practical and appealing to the widest segment of stakeholders.
+      NIST published the CFRA (SP 500-332) in February 2020. The IEEE P2302 WG is currently working on
+      federation-specific standards in support of the CFRA. This will complement existing standards that
+      are directly relevant to managing federations.
+      
+      The specific scope of the ORCA-FI WG will be to: 1) collect, curate and make discoverable federation
+      and interoperability toolsets that are consistent with the NIST CFRA and supportive of IEEE standards;
+      2) inform the further refinement of the NIST CFRA and federation/interoperability standards being developed
+      through the IEEE P2303 WG; and 3) develop and socialize use cases across research groups in academia,
+      industry and government.
+      
+      On the latter, a key part of these use cases will be to identify the deployment and governance models
+      that are most appropriate.  This collection of use cases will also be used to identify the implementation
+      approach(es) that will be practical and appealing to the widest segment of stakeholders.
 
 Exit Strategy:
 
