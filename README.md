@@ -10,14 +10,14 @@ Group Summary:
 
       The purpose of this WG is to facilitate the further adoption of federation tooling based
       on the NIST Cloud Federation Reference Architecture (CFRA) and federation-specific standards
-      being developed by IEEE P2302 WG.  The OGF ORCA-CFRA-WG is being organized under the
+      being developed by IEEE P2302 WG.  The OGF ORCA-FI WG is being organized under the
       auspices of The Open Cloud Research Alliance (ORCA); a key partner in these outreach efforts.
 
 Charter Focus / Purpose and Scope:
 
       NIST published the CFRA (SP 800-332) in February 2020.  The IEEE P2302 WG is currently working
       on federation-specific standards in support of the CFRA.  This will complement existing standards
-      that are directly relevant to managing federations.  The specific scope of the ORCA-CFRA-WG
+      that are directly relevant to managing federations.  The specific scope of the ORCA-FI WG
       will be to develop and socialize use cases across academia, industry and government.  A key part
       of these use cases will be to identify the deployment and governance models that are most appropriate.
       This collection of use cases will also be used to identify the implementation approach(es) that will be
