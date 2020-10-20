@@ -4,4 +4,4 @@
 
 * [Blap](./UseCaseDocumentMain.md)
 
-* [Blap](https://github.com/OpenGridForum/ORCA-Fed-Interop/edit/master/UseCaseDocumentMain.md)
+* [Blap](https://github.com/OpenGridForum/ORCA-Fed-Interop/blob/master/UseCaseDocumentMain.md)
