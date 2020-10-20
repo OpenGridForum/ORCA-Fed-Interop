@@ -1,6 +1,4 @@
-# This is the top-level main file for the rest of the document.
-
- <!---Blap---> 
+ <!---This is the top-level main file for the rest of the document---> 
 
 [Front Matter](DocumentSections/FrontMatter.md)
 
