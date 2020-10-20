@@ -1,23 +1,19 @@
 # This is the top-level main file for the rest of the document.
 
-* [Initial page](README.md)
+ <!---Blap---> 
 
 [Front Matter](DocumentSections/FrontMatter.md)
 
-Executive Summary
+[Executive Summary](DocumentSections/ExecSummary.md)
 
-Introduction
+[Introduction](DocumentSections/Introduction.md)
 
-Fundamental Federation Concepts
+[Fundamental Federation Concepts](DocumentSections/FundamentalConcepts.md)
 
-Federation Use Cases
+[Federation Use Cases](DocumentSections/UseCases.md)
 
-Common Themes
-* Identify common themes; both technical & organizational
+[Common Themes](DocumentSections/CommonThemes.md)
 
-A Development Roadmap
-* Map common themes to D&G models
-* Construct Development Roadmap for implementations that Stakeholder Needs & Use Cases
+[A Development Roadmap](DocumentSections/RoadMap.md)
 
-Final Comments
-
+[Final Comments](DocumentSections/FinalComments.md)
