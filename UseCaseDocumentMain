@@ -1,26 +1,14 @@
 # This is the top-level main file for the rest of the document.
 
-[my text](myfile.md)
-
-[Front Matter](DocumentSections/FrontMatter)
+[Front Matter](DocumentSections/FrontMatter.md)
 
 Executive Summary
 
 Introduction
-* State goals
 
 Fundamental Federation Concepts
-* Review of fundamental fed concepts
-* Review the CFRA
 
 Federation Use Cases
-* Intro Template
-* Federate Need?   Federation Use Case?
-What should needs to go in the template??
-
-
-
-
 
 Common Themes
 * Identify common themes; both technical & organizational
