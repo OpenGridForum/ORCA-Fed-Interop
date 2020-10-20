@@ -2,5 +2,5 @@
 
 * [Initial page](README.md)
 
-* [Blap](UseCaseDocumentMain.md)
+* [Blap](./UseCaseDocumentMain.md)
 
