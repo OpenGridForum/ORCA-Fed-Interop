@@ -3,6 +3,7 @@
 ## The Federation Use Case Template
 
 **Use Case Title:**  _Title_
+
 **Contact Info:**  _Name(s), email address(es), ..._
 
 **High-Level Use Case Description:**
@@ -13,24 +14,24 @@ _(Response)_
 
 **Who are the Stakeholders?**
 * What class of organizations are involved?
-** Academia, Industry, Government
+* Academia, Industry, Government?
 
 _(Response)_
 
-What is the desired "business model" of the federation?
+**What is the desired "business model" of the federation?**
 * How do they need to collaborate?
 * What data/services/capabilities to be shared, and how?
 
-(Response)
+_(Response)_
 
-What is the desired governance model?
+**What is the desired governance model?**
 * How do the Stakeholders want to manage the federation?
 * Who will administer the federation?
 * How is responsibility allocated?
 
-(Response)
+_(Response)_
 
-What are the Major Anticipated Technical Issues?
+**What are the Anticipated Major Technical Issues?**
 For example:
 * Federated Identity
 * Attribute Release
@@ -38,9 +39,9 @@ For example:
 * Cybersecurity
 * Defense-in-Depth
 
-(Response)
+_(Response)_
 
-What are the Major Anticipated Organizational Issues?
+**What are the Anticipated Major Organizational Issues?**
 For example:
 * Data protection
 * Compliance issues
@@ -48,11 +49,11 @@ For example:
 * Auditing Accounting
 * Risk Tolerance
 
-(Response)
+_(Response)_
 
-Any Other Comments:
+**Any Other Comments:**
 
-(Response)
+_(Response)_
 
 
 ## Federation Use Cases
