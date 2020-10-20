@@ -32,6 +32,7 @@ _(Response)_
 _(Response)_
 
 **What are the Anticipated Major Technical Issues?**
+
 For example:
 * Federated Identity
 * Attribute Release
@@ -42,6 +43,7 @@ For example:
 _(Response)_
 
 **What are the Anticipated Major Organizational Issues?**
+
 For example:
 * Data protection
 * Compliance issues
