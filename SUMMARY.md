@@ -1,21 +1,19 @@
 # Table of contents
 
-* [Outline](README.md)
-* [Initial page](<README (1).md>)
-* [UseCaseDocumentMain](UseCaseDocumentMain.md)
-* [DocumentSections](documentsections/README.md)
-  * [Common Themes](DocumentSections/CommonThemes.md)
-* [DocumentSections](documentsections-1/README.md)
-  * [Executive Summary](DocumentSections/ExecSummary.md)
-* [DocumentSections](documentsections-2/README.md)
-  * [Final Comments](DocumentSections/FinalComments.md)
-* [DocumentSections](documentsections-3/README.md)
-  * [Federation Use Cases and Analysis](DocumentSections/FrontMatter.md)
-* [DocumentSections](documentsections-4/README.md)
-  * [Fundamental Federation Concepts](DocumentSections/FundamentalConcepts.md)
-* [DocumentSections](documentsections-5/README.md)
-  * [Introduction](DocumentSections/Introduction.md)
-* [DocumentSections](documentsections-6/README.md)
-  * [A Development Roadmap](DocumentSections/RoadMap.md)
-* [DocumentSections](documentsections-7/README.md)
-  * [Federation Use Cases](DocumentSections/UseCases.md)
+* [Overview](README.md)
+
+[  * Front Matter](FrontMatter.md)
+
+  * [Executive Summary](ExecSummary.md)
+
+  * [Introduction](Introduction.md)
+
+  * [Fundamental Federation Concepts](FundamentalConcepts.md)
+
+  * [Federation Use Cases](UseCases.md)
+
+  * [Common Themes](CommonThemes.md)
+
+  * [A Development Roadmap](RoadMap.md)
+
+  * [Final Comments](FinalComments.md)
